@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <pthread.h>
 #include <conio.h>
-#include <windows.h>
 
 void * thread_func(void * arg) {
 	char c; 
