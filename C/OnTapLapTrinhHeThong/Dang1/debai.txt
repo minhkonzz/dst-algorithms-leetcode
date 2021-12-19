@@ -1,0 +1,8 @@
+Lập trình trên ngôn ngữ tùy chọn C++/C#/Java với yêu cầu sau:
+Viết chương trình 1.
+a (2đ). Viết 1 hàm gồm 1 vòng lặp nhập 1 kí tự từ bàn phím, ghi kí tự lên 1 file dulieu.txt. Nếu kí tự là '!' thì thoát khỏi vòng lặp.
+b. (4đ) Đặt hàm vào 1 luồng, dịch chương trình CT1.
+Viết chương trình 2.
+c (2đ). Viết 1 hàm có 1 vòng lặp vô hạn đọc kí tự ở file dulieu.txt. Đọc được kí tự thì đóng file. Hiển thị kí tự. Nếu kí tự đọc được là '!' thì thoát vòng lặp.
+d. (4đ) Đặt hàm vào 1 luồng, dịch chương trình CT2.
+Chạy CT1 và CT2 để thấy hiệu ứng trao đổi dữ liệu.
