@@ -1,7 +1,7 @@
  Lập (Task1, Task2) hoạt động ở chế độ không đồng bộ như sau:
 Task1:
  -  Viết 1 hàm gồm 1 vòng lặp sinh số nguyên ngẫu
-nhiên 32bit cho đến khi gặp số lớn hơn 40000 thì dừng vòng lặp. Viết hàm
+nhiên 32bit cho đến khi gặp số lớn hơn 31000 thì dừng vòng lặp. Viết hàm
 main() gọi hàm, dịch và chạy chương trình.
 - Thiết lập Task1 bằng cách đặt hàm trên vào 1
 timer chu kỳ 500 mili giây hoặc 1 luồng, kích hoạt timer/luồng trong hàm main().
